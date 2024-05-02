@@ -7,8 +7,20 @@ h1{
     background-color: #000000;
     color: #ffffff;
 }
-ul li{
+h2{
+    font-weight: 900;
+}
+p{
+    font-weight: 600;
+}
+.subtitle{
+    background-color: darkmagenta;
+    color: white;
+}
+ul,
+ol{
     color: darkmagenta;
     font-weight: 600;
     background-color: rgba(205, 205, 205, 0.431);
+    text-align: left;
 }
