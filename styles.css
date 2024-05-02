@@ -1,3 +1,14 @@
-h1 {
-    color: grey;
+body{
+    background-color: rgb(240, 240, 240);
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    text-align: center;
+}
+h1{
+    background-color: #000000;
+    color: #ffffff;
+}
+ul li{
+    color: darkmagenta;
+    font-weight: 600;
+    background-color: rgba(205, 205, 205, 0.431);
 }
