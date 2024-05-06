@@ -28,4 +28,5 @@ p {
   text-align: left;
   padding: 5px;
   margin: 30px;
+  border: 3px groove rgb(188, 188, 188);
 }
