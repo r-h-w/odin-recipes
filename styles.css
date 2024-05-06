@@ -17,14 +17,15 @@ p{
     background-color: darkmagenta;
     color: white;
 }
-ul,
-ol{
+.home-button{
+    background-color: rgba(255, 191, 0, 0.703);
+    font-family: monospace;
+}
+.contents{
     color: darkmagenta;
     font-weight: 600;
     background-color: rgba(205, 205, 205, 0.431);
     text-align: left;
-}
-.home-button{
-    background-color: rgba(255, 191, 0, 0.703);
-    font-family: monospace;
+    padding: 5px; 
+    margin: 30px;
 }
