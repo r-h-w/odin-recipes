@@ -1,31 +1,31 @@
-body{
-    background-color: rgb(240, 240, 240);
-    font-family: 'Courier New', Courier, monospace, sans-serif;
-    text-align: center;
+body {
+  background-color: rgb(240, 240, 240);
+  font-family: "Courier New", Courier, monospace, sans-serif;
+  text-align: center;
 }
-h1{
-    background-color: #000000;
-    color: #ffffff;
+h1 {
+  background-color: #000000;
+  color: #ffffff;
 }
-h2{
-    font-weight: 900;
+h2 {
+  font-weight: 900;
 }
-p{
-    font-weight: 600;
+p {
+  font-weight: 600;
 }
-.subtitle{
-    background-color: darkmagenta;
-    color: white;
+.subtitle {
+  background-color: darkmagenta;
+  color: white;
 }
-.home-button{
-    background-color: rgba(255, 191, 0, 0.703);
-    font-family: monospace;
+.home-button {
+  background-color: rgba(255, 191, 0, 0.703);
+  font-family: monospace;
 }
-.contents{
-    color: darkmagenta;
-    font-weight: 600;
-    background-color: rgba(205, 205, 205, 0.431);
-    text-align: left;
-    padding: 5px; 
-    margin: 30px;
+.contents {
+  color: darkmagenta;
+  font-weight: 600;
+  background-color: rgba(205, 205, 205, 0.431);
+  text-align: left;
+  padding: 5px;
+  margin: 30px;
 }
